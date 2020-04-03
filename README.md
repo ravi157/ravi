@@ -1,4 +1,4 @@
-# include<pthread.h>
+include<pthread.h>
 #include<stdio.h>
 int res_available=100;
 pthread_mutex_t l;
